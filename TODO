@@ -1,0 +1,7 @@
+Feature plan:
+ * Multi protocol: jabber and irc to begin with
+ * Admin interface:
+    - Approve join on invites
+    - Create new identities (jabber chatroom/irc channel)
+ * Database storing channels and identities
+ * On the fly updates (without loosing server connections)
